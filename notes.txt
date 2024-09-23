@@ -1,0 +1,6 @@
+React Redux:
+
+-redux toolkit
+
+-useSelector - to access states from redux store
+-useDispatch - to dispatch redux actions
